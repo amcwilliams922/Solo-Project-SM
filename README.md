@@ -9,4 +9,5 @@ Contents:
 5. Code used to produce Fig. 1 in the report.
 6. Code used to produce Fig. 2 in the report.
 7. Code used to produce Fig. 3 in the report.
+8. Solo Project Derivations- Includes how Eq.(1) in the report is solved following the method in An Introduction to Stellar Astrophysics (Reference 7 in Bibliography) and how the Sun's peak wavelength is calculated using Wien's law.
    
